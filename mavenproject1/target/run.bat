@@ -1,0 +1,1 @@
+java -jar mavenproject1-1.0-SNAPSHOT
