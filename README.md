@@ -1,2 +1,2 @@
-# 100PlatesProblem
-Im going to solve the 100 plates problem in this project
+# 2 PlatesProblem
+Im going to solve the 2 plates problem in this project
